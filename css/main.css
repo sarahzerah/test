@@ -1,10 +1,10 @@
 /* Fonts settings */
 body, p, .navbar, .brand, a, .td-name, td, button, input, select, textarea {
-  font-family: "Roboto", "muli", muli, muli; }
+  font-family: "muli", "muli", muli, muli; }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6,
 .title, .card-title, .info-title, .footer-brand, .footer-big h5, .footer-big h4, .media .media-heading {
-  font-family: "Dosis", "muli", muli, muli;
+  font-family: "muli", "muli", muli, muli;
   font-weight: 600;}
 
 /* Common Styles */
